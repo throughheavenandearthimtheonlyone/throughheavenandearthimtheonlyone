@@ -41,9 +41,7 @@ Please refer to [my repositories](https://github.com/throughheavenandearthimtheo
 
 ### GitHub Actions Projects
 
-- [**CMake Action**](https://github.com/threeal/cmake-action) [WIP],
-  configure and build [CMake](https://cmake.org/) project on GitHub Actions.
-- [**Gcovr Action**](https://github.com/threeal/gcovr-action/) [[v0.1.0]](https://github.com/threeal/gcovr-action/releases/tag/v0.1.0),
-  generate code coverage reports for a C++ project on GitHub Actions using [gcovr](https://gcovr.com/en/stable/).
+- [**GUI Action**](https://github.com/throughheavenandearthimtheonlyone/) [WIP],
+  configure and build project on GitHub Actions.
 
 ![github contribution animation](https://raw.githubusercontent.com/threeal/threeal/output/github-snake.svg)
