@@ -28,8 +28,7 @@ A [C++](https://isocpp.org/) enthusiast who is experienced with building and opt
   [Android](https://www.android.com/android),
   and [Windows](https://www.microsoft.com/en-us/windows).
 Also, a fast learner and generalist who can develop multiple things like
-  computer vision programs using [OpenCV](https://opencv.org/),
-  shell scripts for [CI workflows](https://github.com/features/actions),
+  computer vision programs using [OpenCV](https://opencv.org/),(https://github.com/features/actions),
   web apps using [JavaScript](https://www.javacriptlang.org/),
   and microservices using [Go](https://go.dev/).
 
