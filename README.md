@@ -28,7 +28,7 @@ A [C++](https://isocpp.org/) enthusiast who is experienced with building and opt
   [Android](https://www.android.com/android),
   and [Windows](https://www.microsoft.com/en-us/windows).
 Also, a fast learner and generalist who can develop multiple things like
-  computer vision programs using [OpenCV](https://opencv.org/),(https://github.com/features/actions),
+  computer vision programs using [OpenCV](https://opencv.org/),
   web apps using [JavaScript](https://www.javacriptlang.org/),
   and microservices using [Go](https://go.dev/).
 
@@ -39,11 +39,11 @@ Currently, most of these projects are in [C++](https://isocpp.org/),
   while others are [GitHub Actions](https://github.com/features/actions) for utilizing my other projects.
 Please refer to [my repositories](https://github.com/throughheavenandearthimtheonlyone?tab=repositories) for a list of all projects that I have done.
 
-<!-- ### GitHub Actions Projects
+### GitHub Actions Projects
 
 - [**CMake Action**](https://github.com/threeal/cmake-action) [WIP],
   configure and build [CMake](https://cmake.org/) project on GitHub Actions.
 - [**Gcovr Action**](https://github.com/threeal/gcovr-action/) [[v0.1.0]](https://github.com/threeal/gcovr-action/releases/tag/v0.1.0),
-  generate code coverage reports for a C++ project on GitHub Actions using [gcovr](https://gcovr.com/en/stable/). -->
+  generate code coverage reports for a C++ project on GitHub Actions using [gcovr](https://gcovr.com/en/stable/).
 
 ![github contribution animation](https://raw.githubusercontent.com/threeal/threeal/output/github-snake.svg)
